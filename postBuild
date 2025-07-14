@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/g8kbu_src/Analysis and Results")' >> /home/jovyan/.Rprofile
